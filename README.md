@@ -1,6 +1,6 @@
 # Arcano NES Chiptune Synth Case
 
-TODO: Add description
+A simple case/cover for the Arcano NES Chiptune Synth.
 
 Design is intended to be lazer cut from 3mm acrylic, plywood, MDF, etc. Don't cut the text.
 
